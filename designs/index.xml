@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Isaac Tay - Startups by Day, Standup by Night</title>
-    <link>http://www.isaactay.com/designs/</link>
+    <link>https://www.isaactay.com/designs/</link>
     <description>Recent content in Designs on Isaac Tay - Startups by Day, Standup by Night</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Isaac Tay</copyright>
     
-	<atom:link href="http://www.isaactay.com/designs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.isaactay.com/designs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
