@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Isaac Tay - Startups by Day, Standup by Night</title>
-    <link>https://isaactay.com/techs/</link>
+    <link>http://www.isaactay.com/techs/</link>
     <description>Recent content in Techs on Isaac Tay - Startups by Day, Standup by Night</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Isaac Tay</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://isaactay.com/techs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.isaactay.com/techs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>D3</title>
-      <link>https://isaactay.com/techs/d3/</link>
+      <link>http://www.isaactay.com/techs/d3/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://isaactay.com/techs/d3/</guid>
+      <guid>http://www.isaactay.com/techs/d3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://isaactay.com/techs/javascript/</link>
+      <link>http://www.isaactay.com/techs/javascript/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://isaactay.com/techs/javascript/</guid>
+      <guid>http://www.isaactay.com/techs/javascript/</guid>
       <description></description>
     </item>
     
