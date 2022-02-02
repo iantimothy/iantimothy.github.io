@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Isaac Tay</copyright>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.isaactay.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts on LinkedIn about Talent</title>
+      <link>https://www.isaactay.com/post/2022-02-02-linkedin-posts-related-to-talent/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.isaactay.com/post/2022-02-02-linkedin-posts-related-to-talent/</guid>
+      <description>Talent is a zero sum game.</description>
+    </item>
     
   </channel>
 </rss>

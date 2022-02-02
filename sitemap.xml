@@ -3,13 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.isaactay.com/post/2022-02-02-linkedin-posts-related-to-talent/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.isaactay.com/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.isaactay.com/post/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.isaactay.com/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.isaactay.com/show/the-merry-lion-get-with-the-program-20191026/</loc>
+    <loc>https://www.isaactay.com/show/2019-10-26-the-merry-lion-get-with-the-program/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,7 +42,7 @@
   </url>
   
   <url>
-    <loc>https://www.isaactay.com/show/no-right-answers-20210119/</loc>
+    <loc>https://www.isaactay.com/show/2021-01-19-no-right-answers/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,19 +60,7 @@
   </url>
   
   <url>
-    <loc>https://www.isaactay.com/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.isaactay.com/techs/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.isaactay.com/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
