@@ -13,12 +13,21 @@
     
     
     <item>
+      <title>First smart contract deployed</title>
+      <link>https://www.isaactay.com/post/2022-02-02-first-smart-contract/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.isaactay.com/post/2022-02-02-first-smart-contract/</guid>
+      <description>Deployed my first smart contract on 10 October 2021 on the Binance Smart Chain. Contract is based on the ERC721 standard and to help solve the problem of tracking lineage.</description>
+    </item>
+    
+    <item>
       <title>Posts on LinkedIn about Talent</title>
       <link>https://www.isaactay.com/post/2022-02-02-linkedin-posts-related-to-talent/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.isaactay.com/post/2022-02-02-linkedin-posts-related-to-talent/</guid>
-      <description>Talent is a zero sum game.</description>
+      <description>A series of posts on LinkedIn on the challenges faced in a competitive landscape to establish the supply lines for talent.</description>
     </item>
     
     <item>
